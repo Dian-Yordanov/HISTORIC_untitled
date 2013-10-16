@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="AndEngineAugmentedRealityExtension">
+    <CLASSES>
+      <root url="file://D:/AndEngine/Andengines for git/AndEngineAugmentedRealityExtension" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://D:/AndEngine/Andengines for git/AndEngineAugmentedRealityExtension/gen" />
+      <root url="file://D:/AndEngine/Andengines for git/AndEngineAugmentedRealityExtension/src" />
+    </SOURCES>
+  </library>
+</component>

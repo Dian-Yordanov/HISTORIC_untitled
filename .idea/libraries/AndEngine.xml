@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="AndEngine">
+    <CLASSES>
+      <root url="file://D:/AndEngine/Andengines for git/AndEngine" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://D:/AndEngine/Andengines for git/AndEngine/gen" />
+      <root url="file://D:/AndEngine/Andengines for git/AndEngine/src" />
+    </SOURCES>
+  </library>
+</component>
